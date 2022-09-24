@@ -1,1 +1,3 @@
-# Simple-NodeJs-ExpressJs-Back-End-
+# Simple-NodeJs-ExpressJs-Back-End
+
+- Harus ada Xammp dan MySql
